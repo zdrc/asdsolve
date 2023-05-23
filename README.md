@@ -9,7 +9,7 @@ Based on the background developed in Rafikov 2023.
 * figure out a `setup.py` script and/or `__init__.py` and write set up instructions (add to sys.path?)
     * https://medium.com/opsops/packaging-a-single-module-in-python-e8d4388c4664
 * create examples
-    * reproduce Rafikov plots
-    * make scattered disk plot
+    * ~~reproduce Rafikov plots~~
+    * ~~make scattered disk plot~~
     * make single resonance plot
 * write documentation
